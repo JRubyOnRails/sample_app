@@ -9,8 +9,11 @@ group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails'
   gem 'guard-rspec'
-  gem 'guard-spork', '1.2.0'
-  gem 'spork', '0.9.2'
+  gem 'bootstrap-sass'
+  gem 'guard-spork'
+  gem 'spork'
+#  gem 'guard-spork', '1.2.0'
+#  gem 'spork', '0.9.2'
 end
 
 
