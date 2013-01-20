@@ -52,6 +52,7 @@ gem 'jquery-rails'
 # gem 'debugger'
 #
 group :test do
+  gem 'factory_girl_rails'
   gem 'capybara'
   gem 'rb-inotify'
   gem 'libnotify'
